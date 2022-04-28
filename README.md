@@ -1,6 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sydney-machine-learning.cyclone_deeplearning)
 
 # Data augmentation-based deep learning framework for cyclone rapid intensification prediction
+Anshuka Anshuka, Amandeep Singh, Floris F. van Ogtrop and Rohitash Chandra Senior Member, IEEE </br>
 (Under review)
 
 - In this paper, we use novel deep learning methods for detecting and forecasting tropical cyclone rapid intensification in wind-intensity.
