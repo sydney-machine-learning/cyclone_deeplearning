@@ -1,4 +1,4 @@
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sydney-machine-learning.cyclone_deeplearning)
 
 # Data augmentation-based deep learning framework for cyclone rapid intensification prediction
 Amandeep Singh and Rohitash Chandra Senior Member, IEEE </br>
