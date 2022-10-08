@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sydney-machine-learning.cyclone_deeplearning)
+ 
 
 
 
