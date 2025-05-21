@@ -8,7 +8,7 @@
 - We use data augmentation techniques using LSTMs and we have used spatiotemporal coordinates along with wind intensity to train 4 kinds of LSTMs - Univariate LSTM, Multivariate LSTM, Ensemble LSTM, Hybrid LSTM
  
 ## Citation
-Amandeep Singh and Rohitash Chandra, "Data augmentation-based deep learning framework for  detection of rapid intensification in cyclones", (Under review)
+Vamshika Sutar, Amandeep Singh and Rohitash Chandra, "Data augmentation-based deep learning framework for  detection of rapid intensification in cyclones", (Under review)
 
 
 
